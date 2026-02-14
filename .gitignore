@@ -1,0 +1,77 @@
+# Trie Auto-Suggest System - Git Ignore File
+
+# Compiled executables
+trie_autosuggest
+*.exe
+*.out
+*.app
+
+# Compiled Object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build directories
+build/
+dist/
+bin/
+obj/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Testing artifacts
+test_output/
+*.test
+
+# Python (for test scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Documentation builds
+docs/_build/
+*.pdf
+
+# Backup files
+*.bak
+*.backup
+*~
