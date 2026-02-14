@@ -1,0 +1,30 @@
+Test Cases for Trie Auto-Suggest System
+
+1. Basic Prefix Search
+   Input: "ap"
+   Expected Output: apple, app, apply, apricot (if added)
+
+2. Complete Word Match
+   Input: "bat"
+   Expected Output: bat, battle, bath
+
+3. No Matches
+   Input: "xyz"
+   Expected Output: No suggestions found.
+
+4. Empty Input
+   Input: ""
+   Expected Output: (Should list all words or handle gracefully)
+
+5. Single Character Prefix
+   Input: "c"
+   Expected Output: cat, car, cart, camera
+
+6. Insert New Word
+   Action: Insert "catapult"
+   Input: "cat"
+   Expected Output: cat, car, cart, camera, catapult
+
+7. Case Sensitivity (Extension)
+   Input: "Ap"
+   Expected Output: (Depending on implementation, typically case-insensitive or strictly lowercase)
