@@ -1,4 +1,4 @@
-# Trie Auto-Suggest System
+# Trie-Based Prefix Search Engine
 
 [![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://en.cppreference.com/w/cpp/17)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -6,7 +6,7 @@
 
 ## 🎯 Project Overview
 
-The **Trie Auto-Suggest System** is a high-performance C++ application that implements an intelligent prefix-based word suggestion engine using the **Trie (Prefix Tree)** data structure. 
+The **Trie-Based Prefix Search Engine** is a high-performance C++ application that implements an intelligent prefix-based word suggestion engine using the **Trie (Prefix Tree)** data structure. 
 
 **Real-world relevance**: This same concept powers:
 - 🔍 Search engine autocomplete (Google, Bing)
@@ -44,7 +44,7 @@ The **Trie Auto-Suggest System** is a high-performance C++ application that impl
 ## 📁 Folder Structure
 
 ```
-Trie-AutoSuggest-System/
+Trie-Based-Prefix-Search-Engine/
 ├── src/
 │   └── trie_autosuggest.cpp      # Main C++ implementation (400+ lines)
 ├── test/
@@ -158,7 +158,7 @@ For comprehensive complexity analysis including comparisons with alternative dat
 
 ```
 ╔════════════════════════════════════════════╗
-║    TRIE AUTO-SUGGEST SYSTEM v2.0          ║
+║    TRIE-BASED PREFIX SEARCH ENGINE v2.0    ║
 ║    Intelligent Prefix-Based Search        ║
 ╚════════════════════════════════════════════╝
 

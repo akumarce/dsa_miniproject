@@ -1,7 +1,7 @@
-# Complexity Analysis - Trie Auto-Suggest System
+# Complexity Analysis - Trie-Based Prefix Search Engine
 
 ## Overview
-This document provides a detailed analysis of time and space complexity for all operations in the Trie Auto-Suggest System.
+This document provides a detailed analysis of time and space complexity for all operations in the Trie-Based Prefix Search Engine.
 
 ---
 
